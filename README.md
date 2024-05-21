@@ -9,4 +9,4 @@ I'm Julien COULAUD, student in IT and computing at the IUT of Limoges, France.
 ### Projects
  - A menu with 3 minigames and saving system in Python.
  - A version of the game for children [Orchard](https://git.unilim.fr/bidault17/orchard) in java, javaFX.
- - A version of the game [Scrabble}(https://github.com/Mdeterne/scrabble) in java, javaFX.
+ - A version of the game [Scrabble](https://github.com/Mdeterne/scrabble) in java, javaFX.
