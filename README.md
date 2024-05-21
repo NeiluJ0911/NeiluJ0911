@@ -1,4 +1,12 @@
-## Hi there 👋
+##👋 Hello there
+I'm Julien COULAUD, student in IT and computing at the IUT of Limoges, France.
+
+#Links
+ - [LinkedIn](https://www.linkedin.com/in/julien-coulaud-25275b22a/)
+ - [Instagram](https://www.instagram.com/neiluj_9/)
+ - [X (twitter)](https://x.com/NeiluJ_9)
+
+ - 
 
 <!--
 **NeiluJ0911/NeiluJ0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
