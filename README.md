@@ -1,7 +1,7 @@
-###👋 Hello there
+### 👋 Hello there
 I'm Julien COULAUD, student in IT and computing at the IUT of Limoges, France.
 
-#Links
+# Links
  - [LinkedIn](https://www.linkedin.com/in/julien-coulaud-25275b22a/)
  - [Instagram](https://www.instagram.com/neiluj_9/)
  - [X (twitter)](https://x.com/NeiluJ_9)
